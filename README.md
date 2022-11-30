@@ -1,4 +1,4 @@
-# Day-one-50projects50days
+# 50projects50days
 Day one - first project from #50projects50days here on gitHub
 
 This is my first try learning more about js and how he works when we put together with HTML and CSS;
